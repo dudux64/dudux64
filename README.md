@@ -16,10 +16,5 @@
 <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
 <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 <a href=""><img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="40" height="40"/></a> 
-<a href=""><img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" width="40" height="40"/></a>
-</p>
-<h3 align="left">Em Breve</h3>
-<p align="left">
-<a href=""><img src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png" width="40" height="40"/></a>
-<a href=""><img src="https://as1.ftcdn.net/v2/jpg/03/52/67/82/1000_F_352678266_NFcwIwhhY76mkQItT4lCxyxcCTP3LgvY.jpg" width="40" height="40"/></a>
+<a href=""><img src="https://cdn-icons-png.flaticon.com/512/288/288882.png" width="40" height="40"/></a>
 </p>
