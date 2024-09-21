@@ -1,5 +1,5 @@
 <h1 align="left">Carlos Eduardo</h1>
-<img align="right" width="500" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" width="500" src="https://www.aictsd.com/wp-content/uploads/2023/02/Student-on-computer-gif1.gif">
 
 <p align="justify">Olá sou Carlos Eduardo, estudante de programação focado em Full-Stack em Python. Além disso, tenho conhecimentos em front-end, incluindo HTML, CSS, JavaScript e BootStrap, Bem como SQL para gerenciamento de bancos de dados.</p>
 
