@@ -6,8 +6,8 @@
 
 <h3>Contatos</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/duduuu64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/duduuuu64/" target="blak"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/dudux64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/duduux64" target="blak"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="" height="40" width="40" /></a>
 </p>
 <h3 align="left">Ferramentas e tecnologias</h3> 
 <p align="left">
