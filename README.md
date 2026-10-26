@@ -1,53 +1,49 @@
-<h1 align="center">Carlos Eduardo</h1>
-<p align="center"><strong>Desenvolvedor Full-Stack em formação · Python · Front-end · SQL</strong><br>Rio de Janeiro, Brasil</p>
+<p align="center">
+  <img src="assets/header.svg" alt="Carlos Eduardo · Desenvolvedor Full-Stack" width="100%">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dudux64/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/duduux64"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://dudux64.github.io/Finance/"><img src="https://img.shields.io/badge/Demo-Finance-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Demo do Finance"></a>
 </p>
 
-## Sobre mim
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Back-end+com+Python;Front-end+com+HTML%2C+CSS+e+JavaScript;Bancos+de+dados+com+SQL+e+MySQL;Sempre+aprendendo+com+projetos+reais" alt="Back-end com Python, front-end com HTML, CSS e JavaScript, bancos de dados com SQL e MySQL">
+</p>
 
-Sou estudante de programação com foco em desenvolvimento Full-Stack. No back-end, trabalho com **Python**; no front-end, com **HTML**, **CSS**, **JavaScript** e **Bootstrap**. Para dados, uso **SQL** e **MySQL**.
+## 👨‍💻 Sobre mim
 
-Aprendo construindo projetos práticos: aplicações web, calculadoras e ferramentas para o dia a dia. Também estudo **C** e **C#** para reforçar a base em lógica e estruturas de dados.
+Sou estudante de programação com foco em desenvolvimento **Full-Stack**. No back-end, trabalho com **Python**; no front-end, com **HTML**, **CSS**, **JavaScript** e **Bootstrap**; e para dados, uso **SQL** e **MySQL**.
 
-- Atualmente: desenvolvendo o [Finance](https://github.com/dudux64/Finance), um painel de finanças pessoais.
-- Aberto a: estágio e vagas de desenvolvedor júnior.
+Aprendo construindo projetos práticos e também estudo **C** e **C#** para reforçar a base em lógica e estruturas de dados.
 
-## Tecnologias
+- 🚀 Atualmente desenvolvendo o [**Finance**](https://github.com/dudux64/Finance), um painel de finanças pessoais
+- 🎯 Aberto a estágio e vagas de desenvolvedor júnior
+- 📍 Rio de Janeiro, Brasil
 
-**Back-end e dados**
+## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,bootstrap,mysql,supabase,c,cs,git,vscode&perline=11" alt="Python, HTML, CSS, JavaScript, Bootstrap, MySQL, Supabase, C, C#, Git, VS Code">
+</p>
 
-**Front-end**
+## 📂 Projetos em destaque
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<p align="center">
+  <a href="https://github.com/dudux64/Finance"><img src="assets/card-finance.svg" alt="Finance" width="100%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/dudux64/42-Cursus"><img src="assets/card-42-cursus.svg" alt="42-Cursus" width="49%"></a>
+  <a href="https://github.com/dudux64/Aula-Senac"><img src="assets/card-aula-senac.svg" alt="Aula-Senac" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/dudux64/Sistema-convercao"><img src="assets/card-sistema-conversao.svg" alt="Sistema-conversao" width="49%"></a>
+  <a href="https://github.com/dudux64/Calculo-de-IMC"><img src="assets/card-calculo-de-imc.svg" alt="Calculo-de-IMC" width="49%"></a>
+</p>
 
-**Também estudo**
+## 📊 Linguagens mais usadas
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [Finance](https://github.com/dudux64/Finance) · [demo](https://dudux64.github.io/Finance/) | Dashboard de finanças pessoais com visão mensal, gráficos, calendário, parcelas, assinaturas e login. Instalável no celular. | HTML, CSS, JavaScript, Supabase |
-| [42-Cursus](https://github.com/dudux64/42-Cursus) | Projetos da escola 42: biblioteca própria (libft), ft_printf, get_next_line e comunicação entre processos com sinais (minitalk). | C |
-| [Aula-Senac](https://github.com/dudux64/Aula-Senac) | Exercícios e projetos do curso de Python do SENAC. | Python |
-| [Sistema-convercao](https://github.com/dudux64/Sistema-convercao) | Conversor de moedas entre dólar e real. | Python |
-| [Calculo-de-IMC](https://github.com/dudux64/Calculo-de-IMC) | Calculadora de Índice de Massa Corporal (IMC). | Python |
-
-## Estatísticas
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudux64&layout=compact&hide_border=true&langs_count=6" alt="Linguagens mais usadas">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudux64&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=8B949E&langs_count=6" alt="Linguagens mais usadas">
 </p>
