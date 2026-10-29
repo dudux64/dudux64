@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="176" viewBox="0 0 490 176">
+  <style>
+    text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; }
+    .bg { fill: #ffffff; stroke: #d0d7de; }
+    .title { fill: #2563eb; font-size: 18px; font-weight: 700; }
+    .lang { fill: #1f2328; font-size: 14px; }
+    .pct { fill: #59636e; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #151b23; stroke: #3d444d; }
+      .title { fill: #60a5fa; }
+      .lang { fill: #f0f6fc; }
+      .pct { fill: #9198a1; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="489" height="175" rx="12" class="bg"/>
+  <text x="25" y="38" class="title">Linguagens mais usadas</text>
+  <clipPath id="r"><rect x="25" y="58" width="440" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#r)"><rect x="25" y="58" width="156" height="8" fill="#e34c26"/><rect x="181" y="58" width="115" height="8" fill="#178600"/><rect x="296" y="58" width="68" height="8" fill="#555555"/><rect x="364" y="58" width="67" height="8" fill="#3572A5"/><rect x="431" y="58" width="31" height="8" fill="#663399"/><rect x="462" y="58" width="3" height="8" fill="#f1e05a"/></g>
+  <circle cx="30" cy="89" r="5" fill="#e34c26"/><text x="43" y="94" class="lang">HTML <tspan class="pct">35.5%</tspan></text><circle cx="250" cy="89" r="5" fill="#178600"/><text x="263" y="94" class="lang">C# <tspan class="pct">26.2%</tspan></text><circle cx="30" cy="117" r="5" fill="#555555"/><text x="43" y="122" class="lang">C <tspan class="pct">15.4%</tspan></text><circle cx="250" cy="117" r="5" fill="#3572A5"/><text x="263" y="122" class="lang">Python <tspan class="pct">15.2%</tspan></text><circle cx="30" cy="145" r="5" fill="#663399"/><text x="43" y="150" class="lang">CSS <tspan class="pct">7.0%</tspan></text><circle cx="250" cy="145" r="5" fill="#f1e05a"/><text x="263" y="150" class="lang">JavaScript <tspan class="pct">0.6%</tspan></text>
+</svg>

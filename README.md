@@ -48,5 +48,5 @@ O código do Finance é privado, mas o site está aberto para qualquer pessoa us
 ## 📊 Linguagens mais usadas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudux64&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=8B949E&langs_count=6" alt="Linguagens mais usadas">
+  <img src="assets/top-langs.svg" alt="Linguagens mais usadas" width="490">
 </p>
